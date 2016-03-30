@@ -8,7 +8,7 @@ var articleTypeScheme = new Schema({
     ,logoSrc:String
     //,create_date: { type: Date, default: Date.now }
 });
-//定义article details对象模型
+//定义article details对象模型 test
 var articleDetailScheme = new Schema({
     title:String
     ,summary:String
